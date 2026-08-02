@@ -1,0 +1,12 @@
+# Kaggle competition data — download with the CLI, see README.
+# Also far too large for a repo (train.csv alone is 63 MB).
+train.csv
+test.csv
+sample_submission.csv
+*.csv
+
+# Python noise
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.venv/
